@@ -1,0 +1,12 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+override.tf
+override.tf.json
+.tfplan
+.env
+.env*
+.DS_Store
+.idea/
+.vscode/
+*.swp
